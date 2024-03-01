@@ -1,5 +1,5 @@
 /* 
-Ian Pinegar
+Ian
 2-24-2024 
 Working with class (object) Data Type and functions
 //private attributes (variables)
